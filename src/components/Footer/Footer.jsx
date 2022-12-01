@@ -9,7 +9,7 @@ const Footer = () => {
           <h1>Menu</h1>
           <span>Figure</span>
           <span>Dx</span>
-          <span>Card</span>
+          <span>Gundam</span>
        
         </div>
         <div className="item">
